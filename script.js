@@ -20,7 +20,7 @@
 
 // question 5: Write code that checks the type of the value "frog".
 
-typeof("frog");
+typeOf("frog");
 
 
 // question 6: Declare and initialise a variable called orderHasShipped with a boolean value.
